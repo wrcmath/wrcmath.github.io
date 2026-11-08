@@ -28,6 +28,7 @@ jobs:
             run(`$(npm_cmd()) install highlight.js`);
             using Franklin;
             optimize()'
+          touch __site/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
