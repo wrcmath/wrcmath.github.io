@@ -11,7 +11,7 @@ Hello!
 
 I am an undergraduate at the University of Alabama studying Mathematics, Quantitative Economics, and Philosophy.
 
-I am interested in formal/social epistemology and decision theory both in philosophy and economics. I enjoy applying mathematical modeling and computation whenever possible. 
+I am interested in formal epistemology, social epistemology, and decision theory in the context of both philosophy and economics. I enjoy applying mathematical modeling and computation whenever possible.
 
 
 
