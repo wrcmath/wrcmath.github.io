@@ -25,7 +25,7 @@
                 Multivariable Calculus Capstone • Pluto.jl Notebook
             </p>
             <p style="font-size: 0.9rem; color: var(--text-color); margin: 0 0 12px 0; line-height: 1.45;">
-                A geometric probability exploration using Monte Carlo methods to estimate π, complete with analytical calculus proofs and interactive Julia code.
+                A geometric probability exploration using Monte Carlo methods to estimate π, complete with calculus derivations, simulations, and visualizations.
             </p>
         </div>
 
