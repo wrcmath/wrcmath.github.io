@@ -19,7 +19,7 @@ I am interested in formal epistemology, decision making under ignorance/ambiguit
 
 ### Freelance Math Tutor (September 2026-Present)
 
-Provided tutoring in a diverse range of subjects from algebra 2 and pre calculus to SAT Reading and Writing. Mean SAT increase of 140 points and a five star satisfaction rating on 14 reviews. 
+Provided tutoring in a diverse range of subjects from algebra 2 and pre calculus to SAT Reading and Writing. Mean score increase of over 100 points and a five star satisfaction rating on 14 reviews. 
 
 ### Camp Counselor (June 2024-August 2025)
 
