@@ -4642,7 +4642,7 @@ a.reversefootnote:hover {
   display: table-cell;
   vertical-align: top;
   width: 68px;
-  height: 85.784px;
+  height: 68px;
 }
 
 @media (min-width: 79.05em) {
@@ -4654,12 +4654,17 @@ a.reversefootnote:hover {
 }
 
 .author__avatar img {
-  max-width: 170px;
+  width: 68px;
+  height: 68px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
   border-radius: 50%;
 }
 
 @media (min-width: 79.05em) {
   .author__avatar img {
+    width: 170px;
+    height: 170px;
     padding: 5px;
     border: 1px solid var(--text-color);
   }
